@@ -1,31 +1,22 @@
-# React & Tailwind CSS Starter Pack
+<div align="center">
 
-This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
 
-## Usage
 
-This starter pack includes a basic setup for using **Tailwind CSS with React**. To start building your own components and styles, follow these steps:
+![alt text](https://img.shields.io/badge/StudyInsit-F09820?style=for-the-badge)
 
-1. Clone the repository to your local machine.
-    ```sh
-    git clone https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git
-    ```
+</div>
+<p  >
 
-1. Install the required packages.
-    ```sh
-    cd react-tailwind-css-starter-pack
-    npm install
-    ```
 
-1. Start the development server.
-    ```sh
-    npm start
-    ```
-1. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
-1. Create your React components and add your styles using Tailwind classes. You can also create new CSS files and import them into your components.
+![PRs Welcome](https://img.shields.io/badge/RA-welcome-brightgreen.svg?style=for-the-badge)
+#### ``` This is full stack web App ```
+</p>
 
-The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
+ <p>
+   At StudyInsit, we're dedicated to helping students and lifelong learners unlock their full potential. Our platform is designed to empower individuals with the knowledge, skills, and tools they need to succeed in their educational journey.
+ </p>
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
+ ### Teck stack
+- Frontend : React.js CSS Tailwind Redux Toolkits Axios 
+- Backend : NodeJS and Express.js
+- Database : MongoDB
